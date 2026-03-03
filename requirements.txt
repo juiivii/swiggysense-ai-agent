@@ -1,0 +1,6 @@
+requests
+python-dotenv
+playwright
+python-telegram-bot==13.15
+fastapi
+uvicorn[standard]
